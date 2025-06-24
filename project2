@@ -1,0 +1,6 @@
+C:\Users\carte\coin-toss-simulator
+git init
+git remote add origin https://github.com/YOUR_USERNAME/assignment2-project.git
+git add .
+git commit -m "Initial commit of assignment 2 project"
+git push -u origin master
