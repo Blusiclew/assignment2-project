@@ -1,0 +1,6 @@
+git add .
+git commit -m "Add basic logging functionality"
+
+# Add more logging details
+git add .
+git commit -m "Improve logging with error tracking"
